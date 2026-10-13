@@ -10,8 +10,8 @@ Plus de dix ans en sécurité opérationnelle, aujourd'hui orienté cybersécuri
 | Projet | Contenu |
 |---|---|
 | [Sauvegarde sécurisée pour PME (TFE)](https://github.com/Sifdineha/tfe-backup-securise) | Borg/Borgmatic sous Docker, chiffrement, dépôt distant en append-only, stratégie 3-2-1, RTO mesurés ; NIST CSF, CIS Controls, CyFun |
-| [Laboratoire SIEM Wazuh + IDS Suricata](https://github.com/Sifdineha/lab-siem-wazuh-suricata) | Analyse NIST CSF, règles personnalisées, détection de scans et de brute-force (MITRE T1110), alertes en temps réel |
-| [Laboratoire PKI OpenSSL / Easy-RSA](https://github.com/Sifdineha/lab-pki-openssl-easyrsa) | CA racine, certificats serveur et client, révocation et CRL, scripts reproductibles |
+| Laboratoire SIEM Wazuh + IDS Suricata *(dépôt privé, accès sur demande)* | Analyse NIST CSF, règles personnalisées, détection de scans et de brute-force (MITRE T1110), alertes en temps réel |
+| Laboratoire PKI OpenSSL / Easy-RSA *(dépôt privé, accès sur demande)* | CA racine, certificats serveur et client, révocation et CRL, scripts reproductibles |
 
 ## Outils
 
